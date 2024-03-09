@@ -1,5 +1,6 @@
 {
 	"name": "basitcodeenv/shoppingcart",
+	"version": "1.0",
 	"description": "Laravel Shoppingcart",
 	"keywords": [
 		"laravel",
